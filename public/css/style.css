@@ -1,0 +1,262 @@
+/* Navbar */
+.navbar {
+    border-width: 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-color: rgba(0,0,0,0.0);
+    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+}
+
+
+/* Middle */
+body {
+    background-color: #f3f2ed;
+}
+
+.begins {
+    background-image: url('bground.png');
+    background-repeat: no-repeat;
+    width: 1055px;
+    height: 800px;
+    background-position: 50% 0;
+    background-size: contain;
+    min-height: 250px;
+    min-width: 100%;
+    font-style: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.content {
+    align-content: center;
+    padding: 200px 100px 250px 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.start{
+    background-image: url('there.jpg');
+    background-repeat: repeat;
+    width: 100%;
+    height: auto;
+    min-height: 250px;
+    min-width: 100%;
+    font-style: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.inside {
+    align-content: center;
+    padding: 200px 100px 50px 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.inside h2 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: playfair Display;
+}
+
+.inside h3 {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: playfair Display;
+}
+
+.inside p {
+    font-size: 20px;
+    font-family: playfair Display;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.container h2 {
+    text-align: center; 
+    font-family: playfair Display;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.card-body h5 {
+    font-family: playfair Display;
+    font-style: italic;
+    text-align:center;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.card-body .first {
+    font-family: Domine;
+    text-align:center;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.card-body .second {
+    font-family: Halis R;
+    text-align:center;
+    color: white;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.card-body hr {
+    background-color: #fff;
+    width: 90%;
+}
+
+.col-5 h4 {
+    font-family: playfair Display;
+    color: #7A9E5C;
+    font-style: italic;
+    font-size: 65px;
+    font-weight: bold;
+}
+
+/* Footer */
+.footer {
+    background-color: #2a3737;
+    padding: 40px;
+    color: #fff;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin-bottom: 5px;
+    vertical-align: middle;
+}
+
+/* services */
+.services {
+    background-image: url('servbg.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.contained {
+    align-content: center;
+    padding: 150px 100px 50px 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.days hr {
+    border-top:3px dashed white;
+}
+
+.days .first p {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 62px;
+    font-family: playfair Display;
+    color: #fff;
+}
+
+.days .first.one {
+    padding: 5px;
+    background-color:#7A9E5C;
+}
+
+.days .first.two {
+    padding: 5px;
+    background-color:#825555;
+}
+
+.days .first.three {
+    padding: 5px;
+    background-color:#dbba11;
+}
+
+.days .first.four {
+    padding: 5px;
+    background-color:#304E5C;
+}
+
+.days .second p {
+    text-align: center;
+    font-size: 20px;
+    font-family: playfair Display;
+    font-style: oblique;
+}
+/* about page */
+.about {
+    background-image: url('nowww.jpg');
+    background-repeat: repeat;
+    width: 100%;
+    height: auto;
+    min-height: 250px;
+    min-width: 100%;
+    font-style: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.newin {
+    align-content: center;
+    padding: 100px 100px 50px 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.newin h3 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: playfair Display;
+    font-style: oblique;
+    color: #2a3737;
+}
+
+.newin p {
+    font-size: 20px;
+    font-family: playfair Display;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #304E5C;
+}
+
+.card-body h4 {
+    font-family: playfair Display;
+    font-style: italic;
+    text-align:center;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* register page */
+.register {
+    background-image: url('revthere.jpg');
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.containedreg {
+    align-content: center;
+    padding: 80px 100px 50px 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.containedreg h2 {
+    font-family: Playfair Display;
+    font-style: italic;
+    font-size: 60px;
+}
+
+.containedreg h4 {
+    font-family: Domine;
+    color: #2a3737;
+    font-style: normal;
+    font-size: 20px;
+}
